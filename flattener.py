@@ -1,4 +1,6 @@
-class Flattener(object):
+# -*- coding: utf-8 -*-
+
+class flattener(object):
 
     def flatten(self, data, prefix=""):
         valuedict = dict()
